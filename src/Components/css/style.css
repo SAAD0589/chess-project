@@ -1,0 +1,346 @@
+
+.AcceuilBody{
+    background-color: snow;
+}
+.CarouselCaption{
+    height: 300px;
+    font-size: 20px;
+    font-weight: 600;
+    
+}
+
+.professionals{
+    color: gold;
+    font-weight: bold;
+}
+.Competitivly{
+    color:#af7957;
+    font-weight: bold;
+}
+.carousell-btn{
+    background-color: rgb(46, 43, 43);
+    color:snow;
+}
+.carousell-btn:hover{
+    background-color: rgb(37, 36, 36);
+}
+.bg-white:hover{
+    background-color: aliceblue;
+    color: black;
+}
+.video ,.h2Video  {
+  display: flex;
+  justify-content: center;
+}
+.Courses{
+    background-color:ghostwhite;
+
+}
+.CoursRow{
+    justify-content: center;
+}
+.ReadMe2{
+    background-color:#af7957 ;
+    border-radius: 10px;
+}
+.ReadMe2:hover{
+    background-color:#af7957 ;
+
+}
+.ReadMe1{
+    background-color: rgb(12, 12, 12)
+}
+.ReadMe1:hover{
+    background-color:  rgb(0, 0, 0);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:1640px) {
+    .CarouselCaption{
+        height: 400px;
+        font-size: 30px;
+        
+    }
+    .h1{
+        font-size: 60px;
+    }
+    .w-25{
+        height: 40px;
+        font-size: 20px;
+        font-weight: bold;
+    }
+}
+@media screen and (max-width:1400px) {
+    .CarouselCaption{
+        height: 320px;
+        font-size: 30px;
+        
+    }
+    .h1{
+        font-size: 40px;
+    }
+    .w-25{
+        height: 40px;
+        font-size: 20px;
+        font-weight: bold;
+    }
+}
+@media screen and (max-width:990px) {
+    .CarouselCaption{
+        height: 280px;
+        font-size: 15px;
+        
+    }
+    .h1{
+        font-size: 50px;
+    }
+    .w-25{
+        height: 40px;
+        font-size: 20px;
+        font-weight: bold;
+    }
+}
+@media screen and (max-width:850px) {
+    .CarouselCaption{
+        height: 250px;
+        font-size: 14px;
+        
+    }
+    .h1{
+        font-size: 40px;
+    }
+}
+@media screen and (max-width:760px) {
+    .CarouselCaption{
+        height: 230px;
+        font-size: 15px;
+
+        
+    }
+    .h1{
+        font-size: 30px;
+    }
+}
+@media screen and (max-width:735px) {
+    .CarouselCaption{
+        height: 230px;
+        font-size: 15px;
+
+        
+    }
+    .h1{
+        font-size: 30px;
+    }
+    .w-25{
+        height: 40px;
+        font-size: 15px;
+        font-weight: bold;
+    }
+}
+@media screen and (max-width:690px) {
+    .CarouselCaption{
+        height: 200px;
+        font-size: 15px;
+
+        
+    }
+    .h1{
+        font-size: 30px;
+    }
+}
+
+@media screen and (max-width:601px) {
+    .CarouselCaption{
+        height: 170px;
+        font-size: 12px;
+
+        
+    }
+    .h1{
+        font-size: 20px;
+    }
+    .w-25{
+        height: 40px;
+        font-size: 12px;
+        font-weight: bold;
+    }
+}
+@media screen and (max-width:510px) {
+    .CarouselCaption{
+        height: 150px;
+        font-size: 12px;
+
+        
+    }
+    .h1{
+        font-size: 20px;
+    }
+    .w-25{
+        height: 30px;
+        font-size: 11px;
+        font-weight: bold;
+    }
+}
+@media screen and (max-width:470px) {
+    .CarouselCaption{
+        height: 140px;
+        font-size: 12px;
+
+        
+    }
+    .h1{
+        font-size: 20px;
+    }
+    .w-25{
+        height: 30px;
+        font-size: 10px;
+        font-weight: bold;
+    }
+}
+@media screen and (max-width:441px) {
+    .CarouselCaption{
+        height: 135px;
+        font-size: 12px;
+
+        
+    }
+    .h1{
+        font-size: 20px;
+    }
+    .w-25{
+        height: 30px;
+        font-size: 9px;
+        font-weight: bold;
+    }
+}
+@media screen and (max-width:411px) {
+    .CarouselCaption{
+        height: 135px;
+        font-size: 12px;
+
+        
+    }
+    .h1{
+        font-size: 20px;
+    }
+    .w-25{
+        height: 30px;
+        font-size: 8px;
+        font-weight: bold;
+    }
+}
+@media screen and (max-width:400px) {
+    .CarouselCaption{
+        height: 130px;
+        font-size: 12px;
+
+        
+    }
+    .h1{
+        font-size: 15px;
+    }
+    .w-25{
+        height: 25px;
+        font-size: 8px;
+        font-weight: bold;
+    }
+}
+@media screen and (max-width:387px) {
+    .CarouselCaption{
+        height: 125px;
+        font-size: 12px;
+
+        
+    }
+    .h1{
+        font-size: 15px;
+    }
+    .w-25{
+        height: 25px;
+        font-size: 8px;
+        font-weight: bold;
+    }
+}
+@media screen and (max-width:387px) {
+    .CarouselCaption{
+        height: 110px;
+        font-size: 12px;
+
+        
+    }
+    .h1{
+        font-size: 15px;
+    }
+    .w-25{
+        height: 25px;
+        font-size: 6px;
+        font-weight: bold;
+    }
+}
+

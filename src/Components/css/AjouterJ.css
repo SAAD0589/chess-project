@@ -1,0 +1,20 @@
+.ABC{
+    background-color: rgb(232, 236, 236);
+    height: 100vh;
+    overflow: hidden;
+}
+#CAB{
+    margin-top: 200px;
+    height: 600px;
+    width: 700px;
+    padding-top: 20px;
+}
+.Marg{
+    margin: auto;
+    border-radius: 25% 10%;
+    width: 640px;
+background: #b3b3b3;
+}
+.Butt{
+    background-color: rgb(148, 148, 148);
+}
